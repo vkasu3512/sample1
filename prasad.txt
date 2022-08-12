@@ -1,2 +1,5 @@
 welcome to git hub
 welcome to DevOps
+learning new things fast
+Today working on sample project
+
